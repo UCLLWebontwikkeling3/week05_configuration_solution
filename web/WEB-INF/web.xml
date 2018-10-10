@@ -10,11 +10,11 @@
 	</context-param>
 	<context-param>
 		<param-name>user</param-name>
-		<param-value>local_u0034562</param-value>
+		<param-value>local_r1234</param-value>
 	</context-param>
 	<context-param>
 		<param-name>password</param-name>
-		<param-value>bè2JVgcJVgK:0O</param-value>
+		<param-value>***</param-value>
 	</context-param>
 	<context-param>
 		<param-name>currentSchema</param-name>
